@@ -1,1 +1,1 @@
-fix story in My Sample Project @ PivotalTracker #46168237
+deliver story in My Sample Project @ PivotalTracker #46168237
